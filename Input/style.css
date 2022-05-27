@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+input {
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: medium;
+  height: 35px;
+  margin: 10px 9%;
+  padding: 5px;
+  width: 80%;
+}
+
+.output {
+  font-family: serif;
+  font-size: 7vh;
+  font-weight: bold;
+  margin: 5px;
+  width: 98%;
+}
+
+#text {
+  color: green;
+  font-size: medium;
+  font-weight: bold;
+  margin: 10px;
+}
